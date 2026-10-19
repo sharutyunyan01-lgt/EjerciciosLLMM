@@ -1,0 +1,7 @@
+#tabla,th,td{
+    border:1px solid black;
+}
+#titulo{
+    background-color: rgb(175, 174, 174);
+    color: red;
+}
